@@ -109,6 +109,13 @@ It demonstrates:
 
 The project intentionally prioritizes correctness, usability, and maintainability over unnecessary complexity.
 
+---
+
+## Project Walkthrough Video
+
+A short video explanation of the project, including its design, features, and implementation:
+
+▶️ **YouTube:** https://youtu.be/eoqUmxKuONk
 
 ---
 
